@@ -1,34 +1,21 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"yafaev":
+  - firstname: ["Andrei", "A.", "A. Y.", "Adrei Yafaev"]
+    url: https://www.ucl.ac.uk/~ucahaya/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"ullmo":
+  - firstname: ["Emmanuel", "E.", "E. U.", "Emmanuel Ullmo"]
+    url: https://ullmo.ihes.fr/
+    
+"shah":
+  - firstname: ["Nimish", "N.", "N. S.", "Nimish Shah"]
+    url: https://people.math.osu.edu/shah.595/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"zamojski":
+  - firstname: ["THomas", "Thomas Zamoski"]
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"edixhoven":
+  - firstname: ["Bas", "Bas Edixoven"]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
-
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
-
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
-
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
-
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"frei":
+  - firstname: ["Christoper", "Christopher Frei"]
+    url: https://www.math.tugraz.at/~frei/
