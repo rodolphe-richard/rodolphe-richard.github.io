@@ -143,80 +143,58 @@
       "name": "",
       "icon": "",
       "keywords": [
-        ""//,
-        //"Quantum Computing",
-        //"Quantum Information",
-        //"Quantum Cryptography",
-        //"Quantum Communication",
-        //"Quantum Teleportation"
+        ""
       ]
     }
   ],
 "references": [
     {
       "name": "Nimish Shah, Professor, Ohio State University.",
-      // "icon": "fa-solid fa-user",
       "reference": "Collaborator."
     },
     {
       "name": "Andrei Yafaev, Professor, University College London.",
-      // "icon": "fa-solid fa-user",
       "reference": "Collaborator and Manager (2017-2018 and 2019-2023)."
     },
     {
       "name": "Emmanuel Ullmo, Professor (Univ. Paris-Saclay). Director (IHÉS).",
-      // "icon": "fa-solid fa-user",
       "reference": "Collaborator."
     },
     {
       "name": "Antoine Chambert-Loir, Professor, Université Paris VII Denis Diderot.",
-      // "icon": "fa-solid fa-user",
       "reference": "Advisor (MSc and PhD)."
     },
     {
       "name": "Emmannuel Breuillard, Professor, Universität Münster.",
-      // "icon": "fa-solid fa-user",
       "reference": "PhD report reviewer, Manager (2018-2019)."
     },
     {
       "name": "Antoine Ducros, Professor, Université Paris VII Jussieu.",
-      // "icon": "fa-solid fa-user",
       "reference": "MSc Teacher, Colleague."
     },
     {
       "name": "Bas Edixhoven, Leiden Universiteit.",
-      // "icon": "fa-solid fa-user",
       "reference": "Contact/Affiliation listed."
     },
     {
       "name": "Philippe Michel, Professor, EPF Lausanne.",
-      // "icon": "fa-solid fa-user",
       "reference": "Manager (2009-2013)."
     },
     {
       "name": "Gareth Jones, senior lecturer, University of Manchester.",
-      // "icon": "fa-solid fa-user",
       "reference": "Manager (since 2023)."
     },
     {
       "name": "Martin Orr, Neumann Fellow, University of Manchester.",
-      // "icon": "fa-solid fa-user",
       "reference": "Manager (since 2023)."
     },
     {
       "name": "Mohamed Bouri, Professor, EPF Lausanne.",
-      // "icon": "fa-solid fa-user",
       "reference": "Manager (2013-2014)."
     }
   ],
   "projects": [
     {
-   \\  "name": "Quantum Computing",
-   \\   "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-   \\   "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-   \\   "startDate": "2018-01-01",
-   \\   "endDate": "2018-01-01",
-   \\   "url": "https://example.com"
     }
   ]
 }
