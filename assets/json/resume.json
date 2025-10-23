@@ -23,15 +23,89 @@
     ]
   },
   "work": [
-    {
-      "name": "University of Manchester",
-      "position": "Research Associate",
-      "url": "https://www.maths.manchester.ac.uk/research/",
-      "startDate": "2024",
-      "endDate": "",
-      "summary": "",
-      "highlights": ["Arithmetic Geometry"]
-    }
+    {"work": [
+  {
+    "name": "University of Manchester",
+    "position": "Post-doctorant / Research Associate",
+    "url": "",
+    "startDate": "2024",
+    "endDate": "",
+    "summary": "Post-doctoral research.",
+    "highlights": []
+  },
+  {
+    "name": "IHÉS (Institut des Hautes Études Scientifiques)",
+    "position": "Invited Researcher",
+    "url": "",
+    "startDate": "2023",
+    "endDate": "2024",
+    "summary": "Invited research on mathematical topics.",
+    "highlights": []
+  },
+  {
+    "name": "University College London (UCL)",
+    "position": "Leverhulme Grant Research Fellow",
+    "url": "",
+    "startDate": "2019",
+    "endDate": "2023",
+    "summary": "Research funded by a Leverhulme grant.",
+    "highlights": []
+  },
+  {
+    "name": "University of Cambridge",
+    "position": "Post-doctorant",
+    "url": "",
+    "startDate": "2018",
+    "endDate": "2019",
+    "summary": "Post-doctoral research and teaching in Mathematics.",
+    "highlights": ["Research and Teaching in Mathematics"]
+  },
+  {
+    "name": "Universiteit Leiden",
+    "position": "Post-doctorant",
+    "url": "",
+    "startDate": "2014",
+    "endDate": "2016",
+    "summary": "Post-doctoral research and teaching in Mathematics.",
+    "highlights": ["Research and Teaching in Mathematics"]
+  },
+  {
+    "name": "ÉPFL (École Polytechnique Fédérale de Lausanne)",
+    "position": "Collaborator in Robotics / Software Developer",
+    "url": "",
+    "startDate": "2013",
+    "endDate": "2014",
+    "summary": "Software development for the Clinical Robotics team.",
+    "highlights": ["C++/Qt/SoQt", "C#", "Clinical Robotics"]
+  },
+  {
+    "name": "ÉPFL (Lausanne) and ETH (Zürich)",
+    "position": "Post-doctorant",
+    "url": "",
+    "startDate": "2009",
+    "endDate": "2013",
+    "summary": "Post-doctoral research and teaching in Mathematics.",
+    "highlights": ["Research and Teaching in Mathematics"]
+  },
+  {
+    "name": "Université Rennes 1",
+    "position": "PhD Student Moniteur Normalien",
+    "url": "",
+    "startDate": "2006",
+    "endDate": "2009",
+    "summary": "PhD research and teaching (Moniteur Normalien position).",
+    "highlights": ["Research and Teaching in Mathematics"]
+  },
+  {
+    "name": "ÉNS Paris (École Normale Supérieure)",
+    "position": "Student Employee (Fonctionnaire Stagiaire)",
+    "url": "",
+    "startDate": "2002",
+    "endDate": "2006",
+    "summary": "Full-time student with a teaching commitment contract.",
+    "highlights": []
+  }
+]
   ],
   "volunteer": [
     {
