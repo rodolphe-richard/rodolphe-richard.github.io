@@ -17,11 +17,8 @@
       description:
         - Description 1.
         - Description 2.
-        - title: Sur quelques questions d’équidistribution en géométrie
-arithmétique
-          contents:
-            - Partie I. Équidistribution galoisienne
-            - Partie II. Non divergence S-arithmétique
+        - title: Sur quelques questions d’équidistribution en géométrie arithmétique
+          contents: Partie I. Équidistribution galoisienne  Partie II. Non divergence S-arithmétique
     - title: Federal teaching diploma
       institution: Haute École Pédagogique de Lausanne, Switzerland
       year: 2014
