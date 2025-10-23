@@ -12,7 +12,7 @@ profile:
     <p>Department of Matematics</p>
     <p>University of Manchester</p>
     <p>Turing building, Oxford Rd,</p>
-    <p>Manchester, M13 9PL, UKr</p>
+    <p>Manchester, M13 9PL, UK</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
