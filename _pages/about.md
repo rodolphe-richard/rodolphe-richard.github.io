@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Department of Matematics</p>
+    <p>Department of Mathematics</p>
     <p>University of Manchester</p>
     <p>Turing building, Oxford Rd,</p>
     <p>Manchester, M13 9PL, UK</p>
