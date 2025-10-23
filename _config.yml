@@ -6,9 +6,8 @@ title: Rodolphe Richard, Mathematician # the website title (if blank, full name 
 first_name: Rodolphe
 middle_name: 
 last_name: Richard
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+contact_note: > # You can even add a little note about which of these is the best way to reach you.
+description: # > the ">" symbol means to ignore newlines until "footer_text:"
   Academic résumé of Rodolphe Richard.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
