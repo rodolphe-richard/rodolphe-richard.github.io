@@ -4,10 +4,10 @@
 
 title: Rodolphe Richard, Mathematician # the website title (if blank, full name will be used instead)
 first_name: Rodolphe
-middle_name: 
+middle_name: '' # Changed to empty string for consistency
 last_name: Richard
 contact_note: > # You can even add a little note about which of these is the best way to reach you.
-description: # > the ">" symbol means to ignore newlines until "footer_text:"
+description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic résumé of Rodolphe Richard.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
@@ -346,7 +346,7 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: #  true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: # true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
