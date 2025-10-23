@@ -118,12 +118,7 @@
       "name": "Mathematics",
       "level": "PhD",
       "icon": "",
-      "keywords": [
-        "Algebra",
-        "Geometry",
-        "Number Theory",
-        "Dynamics"
-      ]
+      "keywords": ["Algebra", "Geometry", "Number Theory", "Dynamics"]
     }
   ],
   "languages": [
@@ -142,9 +137,7 @@
     {
       "name": "",
       "icon": "",
-      "keywords": [
-        ""
-      ]
+      "keywords": [""]
     }
   ],
   "references": [
@@ -193,9 +186,5 @@
       "reference": "Manager (2013-2014)."
     }
   ],
-  "projects": [
-    {
-      
-    }
-  ]
+  "projects": [{}]
 }
