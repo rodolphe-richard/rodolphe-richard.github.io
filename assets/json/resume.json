@@ -1,48 +1,50 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Rodolphe Richard",
+    "label": "Mathematician",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "rodolphe.richard@normalesup.org",
+    "phone": "",
+    "url": "",
+    "summary": "My main research focuses on number theory and algebraic geometry, and also the use of homogeneous dynamics.
+    A primary theme is the Zilber-Pink conjectures on unlikely intersection, notably on Shimura varieties, in particular the
+    André-Pink-Zannier conjectures. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "The University of Manchester, Alan Turing Building, Oxford Rd",
+      "postalCode": "M13 9PL",
+      "city": "Manchester",
+      "countryCode": "UK",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "rodolphe-richard",
+        "url": "https://www.linkedin.com/in/rodolphe-richard/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "University of Manchester",
+      "position": "Research Associate",
+      "url": "https://www.maths.manchester.ac.uk/research/",
+      "startDate": "2024",
+      "endDate": "",
+      "summary": "",
+      "highlights": ["Arithmetic Geometry"]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "",
+      "location": "",
+      "position": "",
+      "url": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
+      "highlights": [""]
     }
   ],
   "education": [
@@ -69,89 +71,66 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "PhD in Mathematics",
+      "date": "2009-11",
+      "issuer": "Université Rennes 1",
+      "url": "https://irmar.univ-rennes.fr/",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "Agrégation de Mathématique",
+      "date": "2004",
+      "issuer": "",
+      "url": "",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Diplôme d'enseignement",
+      "date": "2014",
+      "issuer": "Haute École pédagogique de Lausanne",
+      "url": "https://www.hepl.ch/accueil.html",
+      "icon": ""
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Generalised André-Pink-Zannier conjecture for Shimura varieties of Abelian type",
+      "publisher": "Publ. math. IHÉS",
+      "releaseDate": "2025-02-03",
+      "url": "https://doi.org/10.1007/s10240-025-00154-4",
+      "summary": "We prove the generalised André-Pink-Zannier conjecture in Simura varieties of abelian type"
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
+      "name": "Height functions on Hecke orbits and the generalised André-Pink-Zannier conjecture",
+      "publisher": "Compos. Math.",
       "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "url": "https://doi.org/10.1112/S0010437X2400722X",
+      "summary": "We introduce and study generalised Hecke orbits and natural height functions on them. We proved the generalised André-Pink-Zannier conjecture assuming a weak form of the Adelic Mumford-Tate conjecture for the Galois representation associated with the Hecke orbit. This introduces the setting used in the IHÉS article."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Homogeneous Dynamics and Unlikely Intersections",
+      "publisher": "ArXiv",
+      "releaseDate": "2018-09-11",
+      "url": "https://arxiv.org/abs/1809.03802",
+      "summary": "This is a preliminary version of a monograph on homogeneous dynamics and application to some problems of unlikely intersections in Shimura varieties. It consists of four articles, which can be read independently. The first one, by the two first named authors, discuss the main application, to some refinement of the André-Pink-Zannier conjecture about closures of subsets of restricted Hecke orbits in Shimura varieties. The second article, by the first and last named author, establishes results about the dynamics of sequences translates of some measures in spaces of -arithmetic lattices. These results are the cornerstone of the methods in the first article. The last two articles, by the first named author, establish results which are crucial for the second article. The third article gives an ultrametric analogue of archimedean results of Richard and Shah, and contains methods of independent interest about stability, Berkovich spaces and Bruhat-Tits buildings. The last article is set in the same context as the second article, and discusses non-divergence of the studied sequences of translates."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Mathematics",
+      "level": "PhD",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Algebra",
+        "Geometry",
+        "Number Theory",
+        "Dynamics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +142,83 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        ""//,
+        //"Quantum Computing",
+        //"Quantum Information",
+        //"Quantum Cryptography",
+        //"Quantum Communication",
+        //"Quantum Teleportation"
       ]
     }
   ],
-  "references": [
+"references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Nimish Shah, Professor, Ohio State University.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Collaborator."
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Andrei Yafaev, Professor, University College London.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Collaborator and Manager (2017-2018 and 2019-2023)."
+    },
+    {
+      "name": "Emmanuel Ullmo, Professor (Univ. Paris-Saclay). Director (IHÉS).",
+      // "icon": "fa-solid fa-user",
+      "reference": "Collaborator."
+    },
+    {
+      "name": "Antoine Chambert-Loir, Professor, Université Paris VII Denis Diderot.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Advisor (MSc and PhD)."
+    },
+    {
+      "name": "Emmannuel Breuillard, Professor, Universität Münster.",
+      // "icon": "fa-solid fa-user",
+      "reference": "PhD report reviewer, Manager (2018-2019)."
+    },
+    {
+      "name": "Antoine Ducros, Professor, Université Paris VII Jussieu.",
+      // "icon": "fa-solid fa-user",
+      "reference": "MSc Teacher, Colleague."
+    },
+    {
+      "name": "Bas Edixhoven, Leiden Universiteit.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Contact/Affiliation listed."
+    },
+    {
+      "name": "Philippe Michel, Professor, EPF Lausanne.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Manager (2009-2013)."
+    },
+    {
+      "name": "Gareth Jones, senior lecturer, University of Manchester.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Manager (since 2023)."
+    },
+    {
+      "name": "Martin Orr, Neumann Fellow, University of Manchester.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Manager (since 2023)."
+    },
+    {
+      "name": "Mohamed Bouri, Professor, EPF Lausanne.",
+      // "icon": "fa-solid fa-user",
+      "reference": "Manager (2013-2014)."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+   \\  "name": "Quantum Computing",
+   \\   "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+   \\   "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+   \\   "startDate": "2018-01-01",
+   \\   "endDate": "2018-01-01",
+   \\   "url": "https://example.com"
     }
   ]
 }
