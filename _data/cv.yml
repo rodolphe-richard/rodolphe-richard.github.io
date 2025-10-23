@@ -18,15 +18,16 @@
         - Description 1.
         - Description 2.
         - title: Sur quelques questions d’équidistribution en géométrie arithmétique
-          contents: Partie I. Équidistribution galoisienne  Partie II. Non divergence S-arithmétique
-    - title: Federal teaching diploma
+          contents: Partie I. Équidistribution galoisienne, Partie II. Non divergence S-arithmétique
+    - title: Federal teaching diploma # ✅ Corrected indentation
       institution: Haute École Pédagogique de Lausanne, Switzerland
       year: 2014
       description:
-  - title: Agrégation de mathématiques
-      institution: 
+    - title: Agrégation de mathématiques # ✅ Corrected indentation
+      institution:
       year: 2004
       description:
+
 - title: Experience
   type: time_table
   contents:
