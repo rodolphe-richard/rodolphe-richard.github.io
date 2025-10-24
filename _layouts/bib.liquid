@@ -204,8 +204,8 @@
       {% if entry.mrnumber %}
         <a href="https://mathscinet.ams.org/mathscinet/article?mr={{ entry.mrnumber }}" class="btn btn-sm z-depth-0" role="button" rel="noopener">MR{{ entry.mrnumber }}</a>
       {% endif %}
-      {% if entry.zblnumber %}
-        <a href="https://zbmath.org/{{ entry.zblnumber }}" class="btn btn-sm z-depth-0" role="button">Zbl {{ entry.mrnumber }}</a>
+      {% if entry.zbl %}
+        <a href="https://zbmath.org/{{ entry.zbl }}" class="btn btn-sm z-depth-0" role="button">Zbl {{ entry.zbl }}</a>
       {% endif %}
       {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
