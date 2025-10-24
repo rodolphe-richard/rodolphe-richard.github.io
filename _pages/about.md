@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.maths.manchester.ac.uk/research/'>University of Manchester</a>.
 
 profile:
   align: right
@@ -13,6 +13,8 @@ profile:
     <p>University of Manchester</p>
     <p>Turing building, Oxford Rd,</p>
     <p>Manchester, M13 9PL, UK</p>
+
+subtitle: My <a href='https://mathscinet.ams.org/mathscinet/author?authorId=875874'>Mathscinet 🔒</a>. My <a href='https://zbmath.org/authors/richard.rodolphe'>zbMathOpen 🔓</a>.
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
