@@ -5,7 +5,7 @@
     "image": "",
     "email": "rodolphe.richard@normalesup.org",
     "phone": "",
-    "url": "",
+    "url": "https://rodolphe-richard.github.io",
     "summary": "My main research focuses on number theory and algebraic geometry, and also the use of homogeneous dynamics. A primary theme is the Zilber-Pink conjectures on unlikely intersection, notably on Shimura varieties, in particular the André-Pink-Zannier conjectures. ",
     "location": {
       "address": "The University of Manchester, Alan Turing Building, Oxford Rd",
@@ -39,7 +39,7 @@
     "url": "",
     "startDate": "2023",
     "endDate": "2024",
-    "summary": "Invited research on mathematical topics.",
+    "summary": "Collaborator of Emmanuel Ullmo.",
     "highlights": []
   },
   {
@@ -48,7 +48,7 @@
     "url": "",
     "startDate": "2019",
     "endDate": "2023",
-    "summary": "Research funded by a Leverhulme grant.",
+    "summary": "Research and Teaching funded by a Leverhulme grant. With A. Yafaev.",
     "highlights": []
   },
   {
@@ -57,7 +57,7 @@
     "url": "",
     "startDate": "2018",
     "endDate": "2019",
-    "summary": "Post-doctoral research and teaching in Mathematics.",
+    "summary": "Post-doctoral research and teaching in Mathematics. With E. Breuillard.",
     "highlights": ["Research and Teaching in Mathematics"]
   },
   {
@@ -66,7 +66,7 @@
     "url": "",
     "startDate": "2014",
     "endDate": "2016",
-    "summary": "Post-doctoral research and teaching in Mathematics.",
+    "summary": "Post-doctoral research and teaching in Mathematics. With Bas Edixhoven.",
     "highlights": ["Research and Teaching in Mathematics"]
   },
   {
@@ -75,7 +75,7 @@
     "url": "",
     "startDate": "2013",
     "endDate": "2014",
-    "summary": "Software development for the Clinical Robotics team.",
+    "summary": "Software development for the Clinical Robotics team. With M. Bouri.",
     "highlights": ["C++/Qt/SoQt", "C#", "Clinical Robotics"]
   },
   {
@@ -84,7 +84,7 @@
     "url": "",
     "startDate": "2009",
     "endDate": "2013",
-    "summary": "Post-doctoral research and teaching in Mathematics.",
+    "summary": "Post-doctoral research and teaching in Mathematics. With P. Michel and M. Einsiedler.",
     "highlights": ["Research and Teaching in Mathematics"]
   },
   {
@@ -93,7 +93,7 @@
     "url": "",
     "startDate": "2006",
     "endDate": "2009",
-    "summary": "PhD research and teaching (Moniteur Normalien position).",
+    "summary": "PhD research and teaching (Moniteur Normalien position). Supervised by A. Chambert-Loir.",
     "highlights": ["Research and Teaching in Mathematics"]
   },
   {
