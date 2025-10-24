@@ -7,15 +7,20 @@
     url: https://ullmo.ihes.fr/
 
 "shah":
-  - firstname: ["Nimish", "N.", "N. S.", "Nimish Shah"]
+  - firstname: ["Nimish", "N.", "N. S.", "Nimish A. Shah", "Nimish Shah"]
     url: https://people.math.osu.edu/shah.595/
 
 "zamojski":
-  - firstname: ["Thomas", "Thomas Zamoski"]
+  - firstname: ["Thomas", "Thomas Zamoski", "Tomasz Zamoski"]
 
 "edixhoven":
   - firstname: ["Bas", "Bas Edixoven"]
+    url: https://en.wikipedia.org/wiki/Bas_Edixhoven
 
 "frei":
   - firstname: ["Christoper", "Christopher Frei"]
     url: https://www.math.tugraz.at/~frei/
+
+"baldi":
+  - firstname: ["Gregorio", "G. Baldi", "Gregorio Baldi"]
+    url: https://www.ihes.fr/~baldi
