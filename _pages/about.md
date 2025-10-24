@@ -14,7 +14,7 @@ profile:
     <p>Turing building, Oxford Rd,</p>
     <p>Manchester, M13 9PL, UK</p>
 
-subtitle: "My <a href='https://mathscinet.ams.org/mathscinet/author?authorId=875874'>Mathscinet <span style=\"filter: grayscale(100%); -webkit-filter: grayscale(100%);\">🔒</span></a>. My <a href='https://zbmath.org/authors/richard.rodolphe'>zbMathOpen <span style=\"filter: grayscale(100%); -webkit-filter: grayscale(100%);\">🔓</span></a>."
+subtitle: "My <a href='https://mathscinet.ams.org/mathscinet/author?authorId=875874'>Mathscinet <span style=\"filter: grayscale(100%); -webkit-filter: grayscale(100%);\">🔒</span></a>. My <a href='https://zbmath.org/authors/richard.rodolphe'>zbMathOpen <span style=\"filter: grayscale(100%); -webkit-filter: grayscale(100%);\">🔓</span></a>. My <a href='https://theses.hal.science/tel-00438515v1'>PhD Memoir<span style=\"filter: grayscale(100%); -webkit-filter: grayscale(100%);\">🔓</span></a>. My <a href='https://rodolphe-richard.github.io/preprints/'>preprints</a>. My <a href='https://rodolphe-richard.github.io/publications/'>publications</a>." 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
