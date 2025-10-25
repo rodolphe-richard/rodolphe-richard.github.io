@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-y 
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
