@@ -14,15 +14,15 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>https://www.ucl.ac.uk/~ucahaya/</p>
+      <p>University College London</p>
+      <p></p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_ullmo.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>[ullmo](https://ullmo.ihes.fr/)</p>
+      <p>Institut des Hautes Études Scientifiques</p>
+      <p>Université Paris-Saclay</p>
 ---
