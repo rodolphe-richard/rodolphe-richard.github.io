@@ -15,6 +15,6 @@ nav_order: 2
 
 <div class="publications">
 
-{% bibliography --query @*[@keywords~=/prepublications/] %}
+{% bibliography --query @*[@preprint=true] %}
 
 </div>
